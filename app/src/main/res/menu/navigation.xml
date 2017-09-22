@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_conversatione"
+        android:icon="@drawable/ic_conversation"
+        android:title="@string/text_conversation" />
+
+    <item
+        android:id="@+id/action_maps"
+        android:icon="@drawable/ic_maps"
+        android:title="@string/text_maps" />
+
+    <item
+        android:id="@+id/action_games"
+        android:icon="@drawable/ic_game"
+        android:title="@string/text_game" />
+
+    <item
+        android:id="@+id/action_book"
+        android:icon="@drawable/ic_book"
+        android:title="@string/text_book" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/text_settings" />
+
+</menu>

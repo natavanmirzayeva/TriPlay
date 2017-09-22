@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">TriPlay</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">İLERLE</string>
+    <string name="skip">GEÇ</string>
+    <string name="start">BAŞLA</string>
+
+    <string name="slide_1_title">GEÇMİŞTEN GÜNÜMÜZE</string>
+    <string name="slide_1_desc">3000 yıllık bir şehirde yaşıyorsun! Peki yaşadığın şehri ne kadar iyi tanıyorsun ?</string>
+
+    <string name="slide_2_title">KEŞFET</string>
+    <string name="slide_2_desc">Şehrin tarihi ve kültürel güzelliklerini keşfetmeye başla. İstersen gezgin ol, istersen bilgin.</string>
+
+    <string name="slide_3_title">EĞLEN</string>
+    <string name="slide_3_desc">Bulmacaları çöz, şifreleri bul, kapıları aç. Hem öğren hem eğlen. Kendini sına, sırları keşfet.</string>
+
+    <string name="slide_4_title">ÖĞREN</string>
+    <string name="slide_4_desc">Kapalı Çarşının en yoğun zamanında yarım milyona yakın insan barındırdığını biliyor musun? Şimdi gezip öğrenme zamanı</string>
+
+    <string name="play_again_desc">ANA EKRAN GÖRÜNTÜSÜ</string>
+    <string name="play_again">Başa Dön</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="text_conversation">Sohbet</string>
+    <string name="text_maps">Harita</string>
+    <string name="text_game">Oyun</string>
+    <string name="text_book">Kitap</string>
+    <string name="text_settings">Ayarlar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chat_button">Chat Button</string>
+    <string name="book_button">Book Button</string>
+    <string name="game_button">Game Button</string>
+    <string name="maps_button">Maps Button</string>
+    <string name="settings_button">Settings Button</string>
+
+    <string name="textForBookFragment">textForBookFragment</string>
+    <string name="title_activity_bottom_navigation_main">BottomNavigationMainActivity</string>
+
+</resources>

@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "442988565105",
+    "firebase_url": "https://triplay-53a36.firebaseio.com",
+    "project_id": "triplay-53a36",
+    "storage_bucket": "triplay-53a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442988565105:android:b218c6b05fbb9e38",
+        "android_client_info": {
+          "package_name": "com.ndp.triplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442988565105-28tdqtpqj47lr0skhtki59hfdpv3t4ve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ndp.triplay",
+            "certificate_hash": "eed37b4023b6f0df383c0bd8cb881460f107bff0"
+          }
+        },
+        {
+          "client_id": "442988565105-ebonulb3en98if794tik86teol4e4thk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ndp.triplay",
+            "certificate_hash": "d995239927b0a4c78a49726012195f67d67d5ba2"
+          }
+        },
+        {
+          "client_id": "442988565105-aukro5307gmdjmdrrgt3pab8hmiro78k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ndp.triplay",
+            "certificate_hash": "9e1d9f5355f658375f758f1c856fa1b430e12818"
+          }
+        },
+        {
+          "client_id": "442988565105-k7uero9p8rk97f07abkf8bursogqs1f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA54CT9A4U25WlddX4fGuEMZnFLmeSoY-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442988565105-k7uero9p8rk97f07abkf8bursogqs1f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442988565105:android:893359dc780756b4",
+        "android_client_info": {
+          "package_name": "dpn.com.triplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442988565105-kr9caeni12vujaeroumlplc5qlbjterq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dpn.com.triplay",
+            "certificate_hash": "eed37b4023b6f0df383c0bd8cb881460f107bff0"
+          }
+        },
+        {
+          "client_id": "442988565105-k7uero9p8rk97f07abkf8bursogqs1f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA54CT9A4U25WlddX4fGuEMZnFLmeSoY-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442988565105-k7uero9p8rk97f07abkf8bursogqs1f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

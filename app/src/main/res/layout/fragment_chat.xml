@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.ndp.triplay.ChatFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ListView
+        android:id="@+id/messageListView"
+        android:layout_width="match_parent"
+        android:layout_height="313dp"
+        android:layout_above="@+id/linearLayout"
+        android:stackFromBottom="true"
+        android:divider="@android:color/transparent"
+        android:transcriptMode="normal"
+        tools:listitem="@layout/item_message"
+
+        android:layout_weight="1.16" />
+</FrameLayout>
